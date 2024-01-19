@@ -7,7 +7,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 900, 900
 WINDOW = pygame.display.set_mode((WIDTH, HEIGHT), pygame.RESIZABLE)
-pygame.display.set_caption("coca cola pepsi amogh anna seksi")
+pygame.display.set_caption("coca cola pepsi amogh anna seksi ")
 WHITE=(255,255,255)
 SPACE=(15,15,15)
 YELLOW = (255, 255, 0)
