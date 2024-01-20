@@ -1,5 +1,5 @@
 # Realtime-gravity-simulation
-Gravity simulation using python with real astronomical values for accuracy.
+Gravity simulation using python with real astronomical values.
 
 *Note: Requires Python 3.10+ along with Pygame*
 
